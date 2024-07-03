@@ -1,0 +1,45 @@
+header img{
+
+    
+    width: 40px;
+    height: 40px;
+    float: right;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 25px;
+    
+}
+header div ul{
+   
+    margin: 0px;
+    text-align: right;
+    list-style: none;
+
+}
+div ul li{
+    
+    display: inline;
+    padding-left: 15px;
+    padding-right: 50px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+main img{
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 200px;
+   
+}
+main{
+    text-align: center;
+    
+}
+footer{
+    background-color: #E8E8E8 ;
+    font-size: 6px;
+    margin-top: 25%;
+
+   padding: 12px;
+
+}
